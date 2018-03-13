@@ -1,0 +1,20 @@
+
+AtlasLootCharDB = {
+	["__addonrevision"] = 4325,
+	["GUI"] = {
+		["selected"] = {
+			"AtlasLoot_WrathoftheLichKing", -- [1]
+			"Ulduar", -- [2]
+			15, -- [3]
+			3, -- [4]
+			0, -- [5]
+		},
+	},
+	["QuickLootFrame"] = {
+		["point"] = {
+			[3] = "CENTER",
+			[4] = 0,
+			[5] = 0,
+		},
+	},
+}

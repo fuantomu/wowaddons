@@ -1,0 +1,42 @@
+
+AdvancedInterfaceOptionsSaved = {
+	["CustomVars"] = {
+	},
+	["ModifiedCVars"] = {
+		["nameplateminscale"] = "Interface\\AddOns\\Kui_Nameplates_Core\\hook.lua:269",
+		["displayspellactivationoverlays"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["sound_musicvolume"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+		["sound_mastervolume"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+		["camerapitchmovespeed"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["advjournallastopened"] = "Interface\\FrameXML\\MainMenuBarMicroButtons.lua:559",
+		["showtimestamps"] = "Interface\\AddOns\\Prat-3.0\\modules\\Timestamps.lua:540",
+		["activecufprofile"] = "...rd_CUFProfiles\\Blizzard_CompactUnitFrameProfiles.lua:264",
+		["camerayawmovespeed"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["mousespeed"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["nameplatemaxscale"] = "Interface\\AddOns\\Kui_Nameplates_Core\\hook.lua:270",
+		["camerayawsmoothspeed"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+		["chatstyle"] = "Interface\\FrameXML\\InterfaceOptionsPanels.lua:908",
+		["sound_sfxvolume"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:191",
+		["spellactivationoverlayopacity"] = "Interface\\FrameXML\\OptionsPanelTemplates.lua:417",
+	},
+	["CharVars"] = {
+	},
+	["AccountVars"] = {
+		["Sound_MusicVolume"] = "0.20000000298023",
+		["spellActivationOverlayOpacity"] = "0.65",
+		["mouseSpeed"] = "1",
+		["nameplateMinScale"] = "1",
+		["displaySpellActivationOverlays"] = "1",
+		["showTimestamps"] = "none",
+		["activeCUFProfile"] = "Primär",
+		["cameraPitchMoveSpeed"] = "90",
+		["cameraYawMoveSpeed"] = "180",
+		["advJournalLastOpened"] = "1514651687",
+		["cameraYawSmoothSpeed"] = "180",
+		["Sound_MasterVolume"] = "0.089000001549721",
+		["chatStyle"] = "im",
+		["Sound_SFXVolume"] = "0.20000000298023",
+		["nameplateMaxScale"] = "1",
+	},
+	["EnforceSettings"] = false,
+}

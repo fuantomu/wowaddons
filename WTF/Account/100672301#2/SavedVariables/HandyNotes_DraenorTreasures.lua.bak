@@ -1,0 +1,31 @@
+
+DraenorTreasuresDB = {
+	["profileKeys"] = {
+		["Her - Blackmoore"] = "Default",
+		["Pronkos - Blackmoore"] = "Default",
+		["Intimidation - Blackmoore"] = "Default",
+		["Lexwin - Die Silberne Hand"] = "Default",
+		["Fuantomu - Tirion"] = "Default",
+		["Azerite - Blackmoore"] = "Default",
+		["Kyppas - Blackmoore"] = "Default",
+		["Fuantomuu - Nozdormu"] = "Default",
+		["Aylara - Tirion"] = "Default",
+		["Arekkusu - Blackmoore"] = "Default",
+		["Fuantomu - Nazjatar"] = "Default",
+		["Ogro - Tirion"] = "Default",
+		["Atonement - Blackmoore"] = "Default",
+		["Rykosh - Blackmoore"] = "Default",
+		["Onlyneedmoun - Todeswache"] = "Default",
+		["Dafwe - Blackmoore"] = "Default",
+		["Fuantomu - Blackhand"] = "Default",
+		["Niraisha - Blackmoore"] = "Default",
+		["Pyrasa - Tirion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["treasure_gg_b"] = false,
+			["treasure_gg_l"] = false,
+			["treasure_soa_a"] = false,
+		},
+	},
+}

@@ -1,0 +1,27 @@
+
+AtlasLootCharDB = {
+	["__addonrevision"] = 4325,
+	["GUI"] = {
+		["selected"] = {
+			"AtlasLoot_WrathoftheLichKing", -- [1]
+			"IcecrownCitadel", -- [2]
+			nil, -- [3]
+			1, -- [4]
+			0, -- [5]
+		},
+		["point"] = {
+			[3] = "CENTER",
+			[4] = -13.9999074935913,
+			[5] = -3.282587567809970e-005,
+		},
+	},
+	["QuickLootFrame"] = {
+		["point"] = {
+			"RIGHT", -- [1]
+			nil, -- [2]
+			"RIGHT", -- [3]
+			-340.500061035156, -- [4]
+			-138.000137329102, -- [5]
+		},
+	},
+}

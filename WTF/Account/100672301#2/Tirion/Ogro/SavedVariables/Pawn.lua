@@ -1,0 +1,36 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0218,
+	["LastPlayerFullName"] = "Ogro-Tirion",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[133755] = {
+			["Relics"] = {
+			},
+			["Name"] = "Underlight Angler",
+		},
+		[120978] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 40,
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["ItemLevel"] = 43,
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["ItemLevel"] = 43,
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Ashbringer",
+		},
+	},
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}

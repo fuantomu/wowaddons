@@ -1,0 +1,28 @@
+
+DialogKeyDB = {
+	["profileKeys"] = {
+		["Her - Blackmoore"] = "Default",
+		["Pronkos - Blackmoore"] = "Default",
+		["Naisha - Tirion"] = "Default",
+		["Intimidation - Blackmoore"] = "Default",
+		["Lexwin - Die Silberne Hand"] = "Default",
+		["Fuantomu - Tirion"] = "Default",
+		["Azerite - Blackmoore"] = "Default",
+		["Onlyneedmoun - Todeswache"] = "Default",
+		["Rykosh - Blackmoore"] = "Default",
+		["Kyppas - Blackmoore"] = "Default",
+		["Fuantomu - Blackhand"] = "Default",
+		["Fuantomu - Nazjatar"] = "Default",
+		["Ogro - Tirion"] = "Default",
+		["Atonement - Blackmoore"] = "Default",
+		["Niraisha - Blackmoore"] = "Default",
+		["Pyrasa - Tirion"] = "Default",
+		["Dafwe - Blackmoore"] = "Default",
+		["Arekkusu - Blackmoore"] = "Default",
+		["Aylara - Tirion"] = "Default",
+		["Fuantomuu - Nozdormu"] = "Default",
+	},
+	["global"] = {
+		["shownBindWarning"] = true,
+	},
+}

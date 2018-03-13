@@ -1,0 +1,204 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1518095926,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[00:10:31]|r|c00000000|r You are now queued in the Dungeon Finder.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [1]
+			{
+				"|cff979797[00:12:51]|r|c00000000|r Dungeon Difficulty set to Normal.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [2]
+			{
+				"|cff979797[00:12:51]|r|c00000000|r Looting set to Group Loot.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [3]
+			{
+				"|cff979797[00:12:51]|r|c00000000|r Loot threshold set to Uncommon.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [4]
+			{
+				"|cff979797[00:12:51]|r|c00000000|r You aren't in a party.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [5]
+			{
+				"|cff979797[00:12:51]|r|c00000000|r You aren't in a party.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [6]
+			{
+				"|cff979797[00:12:54]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - Shadowfang Keep]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				66, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [7]
+			{
+				"|cff979797[00:12:54]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - Shadowfang Keep]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				6, -- [7]
+				7, -- [8]
+			}, -- [8]
+			{
+				"|cff979797[00:13:40]|r|c00000000|r Experience gained: 30150.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [9]
+			{
+				"|cff979797[00:13:40]|r|c00000000|r Received 30 Gold, 80 Silver.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [10]
+			{
+				"|cff979797[00:13:43]|r|c00000000|r Meijin-Dethecus has left the instance group.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [11]
+			{
+				"|cff979797[00:13:45]|r|c00000000|r You leave the group.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [12]
+			{
+				"|cff979797[00:13:49]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - The Storm Peaks]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				66, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [13]
+			{
+				"|cff979797[00:13:49]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - The Storm Peaks]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				6, -- [7]
+				7, -- [8]
+			}, -- [14]
+			{
+				"|cff979797[00:14:17]|r|c00000000|r |Hchannel:channel:1|h[1] |h Left Channel: |Hchannel:1|h[1. General - The Storm Peaks]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				66, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [15]
+			{
+				"|cff979797[00:14:17]|r|c00000000|r |Hchannel:channel:3|h[3] |h Left Channel: |Hchannel:3|h[3. LocalDefense - The Storm Peaks]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				6, -- [7]
+				7, -- [8]
+			}, -- [16]
+			{
+				"|cff979797[14:18:46]|r|c00000000|r You are now queued in the Dungeon Finder.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [17]
+		},
+	},
+}

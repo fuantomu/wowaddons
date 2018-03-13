@@ -1,0 +1,5 @@
+
+TalkingHeadRemovalDB = {
+	["already_saw"] = {
+	},
+}

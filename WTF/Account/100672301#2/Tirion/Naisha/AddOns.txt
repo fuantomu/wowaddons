@@ -1,0 +1,5 @@
+_NPCScan.Overlay: disabled
+AutoTurnIn: disabled
+XLoot_Options: enabled
+BagBrother: enabled
+Aurora: disabled

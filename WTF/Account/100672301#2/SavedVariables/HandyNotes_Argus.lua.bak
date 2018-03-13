@@ -1,0 +1,29 @@
+
+HandyNotesArgusDB = {
+	["profileKeys"] = {
+		["Her - Blackmoore"] = "Default",
+		["Pronkos - Blackmoore"] = "Default",
+		["Naisha - Tirion"] = "Default",
+		["Intimidation - Blackmoore"] = "Default",
+		["Pyrasa - Tirion"] = "Default",
+		["Fuantomu - Tirion"] = "Default",
+		["Azerite - Blackmoore"] = "Default",
+		["Onlyneedmoun - Todeswache"] = "Default",
+		["Fuantomuu - Nozdormu"] = "Default",
+		["Rykosh - Blackmoore"] = "Default",
+		["Arekkusu - Blackmoore"] = "Default",
+		["Fuantomu - Nazjatar"] = "Default",
+		["Ogro - Tirion"] = "Default",
+		["Atonement - Blackmoore"] = "Default",
+		["Niraisha - Blackmoore"] = "Default",
+		["Lexwin - Die Silberne Hand"] = "Default",
+		["Dafwe - Blackmoore"] = "Default",
+		["Fuantomu - Blackhand"] = "Default",
+		["Kyppas - Blackmoore"] = "Default",
+		["Aylara - Tirion"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

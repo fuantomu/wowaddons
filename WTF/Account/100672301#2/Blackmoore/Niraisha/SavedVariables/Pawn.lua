@@ -1,0 +1,65 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0218,
+	["LastPlayerFullName"] = "Niraisha-Blackmoore",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["Artifacts"] = {
+		[128872] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 75,
+					["Type"] = "Blood",
+				}, -- [1]
+				{
+					["ItemLevel"] = 72,
+					["Type"] = "Iron",
+				}, -- [2]
+				{
+					["ItemLevel"] = 75,
+					["Type"] = "Wind",
+				}, -- [3]
+			},
+			["Name"] = "The Dreadblades",
+		},
+		[128870] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 71,
+					["Type"] = "Shadow",
+				}, -- [1]
+				{
+					["ItemLevel"] = 71,
+					["Type"] = "Iron",
+				}, -- [2]
+				{
+					["ItemLevel"] = 74,
+					["Type"] = "Blood",
+				}, -- [3]
+			},
+			["Name"] = "The Kingslayers",
+		},
+		[128476] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 72,
+					["Type"] = "Fel",
+				}, -- [1]
+				{
+					["ItemLevel"] = 58,
+					["Type"] = "Shadow",
+				}, -- [2]
+				{
+					["ItemLevel"] = 71,
+					["Type"] = "Fel",
+				}, -- [3]
+			},
+			["Name"] = "Fangs of the Devourer",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "ROGUE",
+	["LastAdded"] = 1,
+}

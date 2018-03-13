@@ -1,0 +1,22 @@
+VER 3 0100000000000004 "F" "642580"
+#showtooltip
+/cast [@player] Angelic Feather
+END
+VER 3 0100000000000003 "LoF" "463835"
+#showtooltip
+/cast [@mouseover,help,nodead][] Leap of Faith
+END
+VER 3 0100000000000006 "PS" "135936"
+#showtooltip
+/cast [@mouseover,help,nodead][] Pain Suppression
+END
+VER 3 0100000000000005 "PWR" "1386546"
+#showtooltip
+/cast [@mouseover,help,nodead][] Power Word: Radiance
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ato[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

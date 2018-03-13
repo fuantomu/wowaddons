@@ -1,0 +1,17 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["Rykosh - Blackmoore"] = "Rykosh - Blackmoore",
+	},
+	["char"] = {
+		["Rykosh - Blackmoore"] = {
+			["artifactCache"] = {
+				[128908] = {
+					["timestamp"] = 3277172.979,
+					["level"] = 0,
+					["crucibled"] = false,
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,11 @@
+VuhDoOptions: enabled
+VuhDo: enabled
+AllTheThings: disabled
+PetTracker: enabled
+CollectionShop: disabled
+TradeSkillMaster: disabled
+TradeSkillMaster_Accounting: disabled
+TradeSkillMaster_AppHelper: disabled
+TradeSkillMaster_AuctionDB: disabled
+TradeSkillMaster_Auctioning: disabled
+TradeSkillMaster_Shopping: disabled

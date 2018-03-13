@@ -1,0 +1,20 @@
+
+AtlasLootCharDB = {
+	["__addonrevision"] = 4325,
+	["QuickLootFrame"] = {
+		["point"] = {
+			[3] = "CENTER",
+			[4] = 0,
+			[5] = 0,
+		},
+	},
+	["GUI"] = {
+		["selected"] = {
+			"AtlasLoot_Collections", -- [1]
+			"BOEWORLDEPICS", -- [2]
+			nil, -- [3]
+			1, -- [4]
+			0, -- [5]
+		},
+	},
+}
