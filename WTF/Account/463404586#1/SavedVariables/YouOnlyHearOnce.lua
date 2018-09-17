@@ -1,5 +1,0 @@
-
-TalkingHeadRemovalDB = {
-	["already_saw"] = {
-	},
-}

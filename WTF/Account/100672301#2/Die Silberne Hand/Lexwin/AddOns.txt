@@ -1,9 +1,0 @@
-TradeSkillMaster: disabled
-TradeSkillMaster_AppHelper: disabled
-TradeSkillMaster_Accounting: disabled
-TradeSkillMaster_Auctioning: disabled
-TradeSkillMaster_Crafting: disabled
-TradeSkillMaster_AuctionDB: disabled
-TradeSkillMaster_Shopping: disabled
-TradeSkillMaster_Destroying: disabled
-RogueDoorOpener: disabled
